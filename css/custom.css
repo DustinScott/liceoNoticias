@@ -1,0 +1,37 @@
+h4.pageTitle{
+	font-family: 'Poppins', sans-serif;
+	font-size:40px;
+	margin:50px 0px 30px 50px;
+}
+
+h4.titlePreescolar{
+	color:#5bcaff;
+}
+
+h4.titlePrima{
+	color:#e4b7f0;
+}
+
+h4.titleSecu{
+	color:#1d77ef;
+}
+
+h4.titleAfter{
+	color:#ff5b37;
+}
+h2,h4{
+	color:#4a4a4a;
+}
+
+#mainContain{
+	background:#f7f7f7;	
+	border:1px solid #ddd;
+	
+}
+body{
+	background:#F2F3F4; /* Anti-flash white (name colors) */
+}
+
+.mainHT{
+	color:#fff;
+}
